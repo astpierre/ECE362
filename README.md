@@ -1,5 +1,6 @@
 # ECE 362: Microprocesor System Design and Interfacing
   Course Description: An introduction to basic computer organization, microprocessor instruction sets, assembly language programming, the design of various types of digital as well as analog interfaces, and microprocessor system design considerations. The accompanying laboratory is designed to provide practical hands-on experience with microprocessor software applications and interfacing techniques. Topics include a detailed study of a particular microcomputer architecture and instruction set, assembly language programming techniques, system control signals and I/O structure, memory system design, I/O port design and handshaking protocols, interrupt control systems, parallel and serial interface subsystems, counter/timer subsystems, and analog (data and control) interfaces.
+  
   NOTE: Since I am currently taking this course (Spring 2018) these are my weekly solutions to lab experiements. 
 
 # Contents:
