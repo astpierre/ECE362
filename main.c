@@ -3,7 +3,7 @@
   * @file    main.c
   * @author  Ac6
   * @version V1.0
-  * @date    01-December-2013
+  * @date    02/13/2018
   * @brief   Default main function. In this experiment, students will learn 
 			 basics of writing embedded firmware using higher-level languages, and
 			 how the various constructs used in the assembly-based 
