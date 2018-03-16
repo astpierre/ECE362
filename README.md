@@ -11,6 +11,9 @@
   experiment5.C is an embedded C version of experiment4. Purpose being to transition the course to embedded C programming.
   
   experiment6.C is an embedded C program that explores the ADC peripheral of the STM32F0 uC.
-
+  
+  experiment7.C is an embedded C program that explores the PWM and DAC peripherals of the STM32F0 uC.
+  
+  
 # End
 
