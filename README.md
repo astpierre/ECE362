@@ -14,6 +14,7 @@
   
   experiment7.C is an embedded C program that explores the PWM and DAC peripherals of the STM32F0 uC.
   
+  experiment8.C is an embedded C program utilizing the HAL Library and interfacing a keypad to realize a basic calculator.
   
 # End
 
